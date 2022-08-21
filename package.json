@@ -1,0 +1,22 @@
+{
+  "name": "dans-svg-to-gcode",
+  "version": "1.0.0",
+  "description": "Convert my very specific format of SVG to GCODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/dans-svg-to-gcode.git"
+  },
+  "author": "revdancatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/dans-svg-to-gcode/issues"
+  },
+  "homepage": "https://github.com/revdancatt/dans-svg-to-gcode#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}

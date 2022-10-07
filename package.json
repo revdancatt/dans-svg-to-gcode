@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Convert my very specific format of SVG to GCODE",
   "main": "index.js",
+  "bin": {
+    "svg-to-gcode": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
